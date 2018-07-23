@@ -4,7 +4,7 @@ My first project in the Android Basics nanodegree by Google and Udacity. It is a
 
 ***
 
-  <img src="Screenshots/app_screenshot.png" width="250" title="Main Activity Screenshot">
+  <img src="documentation/app_screenshot.png" width="250" title="Main Activity Screenshot">
 
 
 ***
