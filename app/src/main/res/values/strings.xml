@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Heliopolis Library</string>
+    <string name="address">42, Orouba Street, Cairo, Egypt</string>
+    <string name="phone">02-24158880</string>
+    <string name="email">helib42@yahoo.com</string>
+    <string name="site">https://www.facebook.com/hplegypt/</string>
+    <string name="helioLib">Heliopolis Library</string>
+</resources>
